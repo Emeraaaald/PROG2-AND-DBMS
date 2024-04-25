@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\DataGridViewEmerald\DataGridViewEmerald\obj\Debug\net8.0-windows\DataGridViewEmerald.Form1.resources
+C:\Users\Student\source\repos\DataGridViewEmerald\DataGridViewEmerald\obj\Debug\net8.0-windows\DataGridViewEmerald.vbproj.GenerateResource.cache
+C:\Users\Student\source\repos\DataGridViewEmerald\DataGridViewEmerald\obj\Debug\net8.0-windows\DataGridViewEmerald.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\DataGridViewEmerald\DataGridViewEmerald\obj\Debug\net8.0-windows\DataGridViewEmerald.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\DataGridViewEmerald\DataGridViewEmerald\obj\Debug\net8.0-windows\DataGridViewEmerald.AssemblyInfo.vb
+C:\Users\Student\source\repos\DataGridViewEmerald\DataGridViewEmerald\obj\Debug\net8.0-windows\DataGridViewEmerald.vbproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\DataGridViewEmerald\DataGridViewEmerald\obj\Debug\net8.0-windows\DataGridViewEmerald.vbproj.AssemblyReference.cache
+C:\Users\Student\source\repos\DataGridViewEmerald\DataGridViewEmerald\obj\Debug\net8.0-windows\DataGridViewEmerald.Form2.resources
